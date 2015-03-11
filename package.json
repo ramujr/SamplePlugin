@@ -1,0 +1,16 @@
+{
+    "version": "0.0.1",
+    "name": "com.example.myplugin",
+    "cordova_name": "SamplePlugin",
+    "description": "SamplePlugin Description",
+    "license": "Apache 2.0 License",
+    "platforms": [
+        "android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.5.0"
+        }
+    ]
+}
